@@ -10,7 +10,7 @@
 [![LangGraph](https://img.shields.io/badge/LangGraph-1.2.9-1C1C1C?style=flat-square)](https://langchain-ai.github.io/langgraph/)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-Playwright%20%7C%20Filesystem%20%7C%20Thinking-blue?style=flat-square)](https://modelcontextprotocol.io)
-[![GitHub](https://img.shields.io/badge/GitHub-adkdev200--ops%2Fvanguard-181717?style=flat-square&logo=github)](https://github.com/adkdev200-ops/vanguard)
+[![GitHub](https://img.shields.io/badge/GitHub-adkdev200%2Fvanguard-181717?style=flat-square&logo=github)](https://github.com/adkdev200/vanguard)
 
 <img src="slide4_cta.png" alt="Vanguard — Autonomous AI Agent" width="480"/>
 
